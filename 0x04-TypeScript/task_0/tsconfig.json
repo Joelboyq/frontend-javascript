@@ -8,5 +8,5 @@
     "skipLibCheck": true,
     "outDir": "./dist"
   },
-  "include": ["js/**/*", "js/main.ts"]
+  "include": ["js/**/*"]
 }
